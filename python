@@ -1,5 +1,8 @@
-import qiskit
+import numpy as np
+
+from qiskit import BasicAer
+
 from qiskit import *
-qc = QuantumCircuit
+qc = QuantumCircuit(1,1)
 qc.h(0)
 qc.draw()
