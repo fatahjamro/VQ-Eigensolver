@@ -50,6 +50,7 @@ Thumbs.db
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+.vscode/
 
 ## --- PROJECT SPECIFIC ---
 # Specific redundant PDFs or scripts
