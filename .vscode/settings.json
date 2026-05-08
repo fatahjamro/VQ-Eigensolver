@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "**/*.aux": true,
+        "**/*.fdb_latexmk": true,
+        "**/*.fls": true,
+        "**/*.log": true,
+        "**/*.out": true,
+        "**/*.synctex.gz": true,
+        "**/*.toc": true,
+        "**/*.bcf": true,
+        "**/*.run.xml": true,
+        "**/*.blg": true,
+        "**/*.bbl": true,
+        "_minted*": true,
+        "**/*_minted": true,
+        "**/.latexmkrc": true,
+        "**/.ipynb_checkpoints": true,
+        "**/.DS_Store": true,
+        "**/.cut": true
+    },
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.latex.clean.subfolder.enabled": true
+}
